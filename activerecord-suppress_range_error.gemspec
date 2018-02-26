@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Suppressing RangeError during type casting}
   spec.description   = %q{Suppressing RangeError during type casting}
   spec.homepage      = "https://github.com/kamipo/activerecord-suppress_range_error"
+  spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
