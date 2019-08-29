@@ -2,6 +2,8 @@
 
 Suppressing RangeError during type casting.
 
+> This gem is not needed in Rails 6, it was incorporated by framework. Use it only with Rails 5.x and older. See [details](https://github.com/kamipo/activerecord-suppress_range_error/issues/3)
+
 ## Installation
 
 Add this line to your application's Gemfile:
