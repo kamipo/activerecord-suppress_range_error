@@ -5,6 +5,7 @@ module ActiveRecord
     private
 
     def ensure_in_range(value)
+      value
     end
   end
 
