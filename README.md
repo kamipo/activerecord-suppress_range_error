@@ -4,7 +4,7 @@ Suppressing RangeError during type casting.
 
 > For Rails 5.x and older, use the v0.x releases of this gem.
 
-> For Rails 6.x and earlier, use the v1.x releases of this gem.
+> For Rails 6.x and later, use the v1.x releases of this gem.
 
 ## Installation
 
